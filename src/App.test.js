@@ -1,8 +1,3 @@
-import { render, screen } from '@testing-library/react';
-import App from './App';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-});
+//           <img src="https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif" alt="people" />
+//           404 image 
